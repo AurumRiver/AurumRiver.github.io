@@ -1,3 +1,6 @@
+The design of this website is based on work from HTML5 UP and has been modified to suit our needs. 
+Below is the ReadMe content from the original author.
+
 Aerial by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
